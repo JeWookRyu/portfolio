@@ -1,0 +1,15 @@
+{
+    "menu": [
+      {"name": "about", "link": "about"},
+      {"name": "skill", "link": "skill"},
+      {"name": "story", "link": "story"},
+      {"name": "project", "link": "project"},
+      {"name": "contact", "link": "contact"}
+    ],
+    "about": {
+      "title": "",
+      "desc": "",
+      "icons": ["sentiment_very_satisfied"]
+    }
+  }
+  
